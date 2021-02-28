@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gitfol-back.main:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/gitfol_back_main_war</output-path>
+    <root id="archive" name="gitfol-back.main_war.war">
+      <element id="artifact" artifact-name="gitfol-back.main:war exploded" />
+    </root>
+  </artifact>
+</component>
